@@ -1,0 +1,17 @@
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\SmartPhoneCustomizer.MainForm.resources
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\Phone.csproj.GenerateResource.cache
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\Phone.AssemblyInfoInputs.cache
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\Phone.AssemblyInfo.cs
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\Phone.csproj.CoreCompileInputs.cache
+C:\Users\برنت\source\repos\Phone\Phone\bin\Debug\net9.0-windows\Phone.exe
+C:\Users\برنت\source\repos\Phone\Phone\bin\Debug\net9.0-windows\Phone.deps.json
+C:\Users\برنت\source\repos\Phone\Phone\bin\Debug\net9.0-windows\Phone.runtimeconfig.json
+C:\Users\برنت\source\repos\Phone\Phone\bin\Debug\net9.0-windows\Phone.dll
+C:\Users\برنت\source\repos\Phone\Phone\bin\Debug\net9.0-windows\Phone.pdb
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\Phone.dll
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\refint\Phone.dll
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\Phone.pdb
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\Phone.genruntimeconfig.cache
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\ref\Phone.dll
+C:\Users\برنت\source\repos\Phone\Phone\obj\Debug\net9.0-windows\SmartPhoneCustomizer.OrderProcessingReportForm.resources
