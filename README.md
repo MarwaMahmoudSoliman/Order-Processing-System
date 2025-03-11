@@ -90,7 +90,7 @@ Steps to Run
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/smartphone-customizer.git
+git clone https://github.com/MarwaMahmoudSoliman/Order-Processing-System.git
 cd smartphone-customizer
 
 Open the Project:
